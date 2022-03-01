@@ -1,6 +1,5 @@
 
-THE CHALLENGE
-Write a program and associated unit tests that can price a basket of goods, accounting for
+Program and associated unit tests that can price a basket of goods, accounting for
 special offers.
 
 The goods that can be purchased, which are all priced in GBP, are:
@@ -28,5 +27,3 @@ Input should be via the command line in the form PriceBasket item1 item2 item3 �
 	Subtotal: £1.30
 	(no offers available)
 	Total: £1.30
-The code and design should meet these requirements but be sufficiently flexible to allow for future
-extensibility. The code should be well structured, suitably commented, have error handling, and be tested.
